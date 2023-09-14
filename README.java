@@ -1,7 +1,7 @@
 # Japan-National-Football-Team
-        "C:\Program Files\Java\jdk-17\bin\java.exe" "-javaagent:C:\Users\OKU\OneDrive\デスクトップ\IntelliJ IDEA Community Edition 2023.2\lib\idea_rt.jar=61905:C:\Users\OKU\OneDrive\デスクトップ\IntelliJ IDEA Community Edition 2023.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\OKU\IdeaProjects\NationalFootballTeam\out\production\NationalFootballTeam Main
+        "C:\Program Files\Java\jdk-17\bin\java.exe" "-javaagent:C:\Users\OKU\OneDrive\デスクトップ\IntelliJ IDEA Community Edition 2023.2\lib\idea_rt.jar=63985:C:\Users\OKU\OneDrive\デスクトップ\IntelliJ IDEA Community Edition 2023.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\OKU\IdeaProjects\NationalFootballTeam\out\production\NationalFootballTeam Main
         選手
-        ---------------------------------------------------------------------------------------
+        ----------------------------------------------------------------------------------------
         GK
         1 中村航輔 ナカムラコウスケ (ポルティモネンセ/ポルトガル)
         12 鈴木彩艶 スズキザイオン (シントトロイデン/ベルギー)
@@ -26,8 +26,8 @@
         13 旗手怜央 ハタテレオ (セルティック/スコットランド)
         18 田中碧 タナカアオ (デュッセルドルフ/ドイツ２部)
         FW
-        9 上田 綺世 ウエダアヤセ
-        20 前田大然 マエダタイゼン
-        16 古橋 亨梧 フルハシキョウゴ
+        9 上田 綺世 ウエダアヤセ (フェイエノールト/オランダ)
+        20 前田大然 マエダタイゼン (セルティック/スコットランド)
+        16 古橋 亨梧 フルハシキョウゴ (セルティック/スコットランド)
 
         プロセスは終了コード 0 で終了しました

@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("選手");
-        System.out.println("---------------------------------------------------------------------------------------");
+        System.out.println("----------------------------------------------------------------------------------------");
 
 
         List<PlayerInfo> gkplayers = new ArrayList<>();
@@ -66,7 +66,7 @@ public class Main {
         System.out.println(fwPotision);
         for (int i = 0; i < fwPlayers.size(); i++) {
             PlayerInfo fw = fwPlayers.get(i);
-            System.out.printf("%s %s %s%n", fw.getNumber(), fw.getName(), fw.getReading(), "(" + fw.getTeam() + ")");
+            System.out.printf("%s %s %s %s%n", fw.getNumber(), fw.getName(), fw.getReading(), "(" + fw.getTeam() + ")");
         }
 
     }
